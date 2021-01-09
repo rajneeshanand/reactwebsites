@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactwebsites/static/css/main.4ad5fa50.chunk.css",
+    "main.js": "/reactwebsites/static/js/main.6061ea76.chunk.js",
+    "main.js.map": "/reactwebsites/static/js/main.6061ea76.chunk.js.map",
+    "runtime-main.js": "/reactwebsites/static/js/runtime-main.9d0cf9d9.js",
+    "runtime-main.js.map": "/reactwebsites/static/js/runtime-main.9d0cf9d9.js.map",
+    "static/css/2.ebbcdcaa.chunk.css": "/reactwebsites/static/css/2.ebbcdcaa.chunk.css",
+    "static/js/2.43515f6d.chunk.js": "/reactwebsites/static/js/2.43515f6d.chunk.js",
+    "static/js/2.43515f6d.chunk.js.map": "/reactwebsites/static/js/2.43515f6d.chunk.js.map",
+    "static/js/3.94af11a6.chunk.js": "/reactwebsites/static/js/3.94af11a6.chunk.js",
+    "static/js/3.94af11a6.chunk.js.map": "/reactwebsites/static/js/3.94af11a6.chunk.js.map",
+    "index.html": "/reactwebsites/index.html",
+    "static/css/2.ebbcdcaa.chunk.css.map": "/reactwebsites/static/css/2.ebbcdcaa.chunk.css.map",
+    "static/css/main.4ad5fa50.chunk.css.map": "/reactwebsites/static/css/main.4ad5fa50.chunk.css.map",
+    "static/js/2.43515f6d.chunk.js.LICENSE.txt": "/reactwebsites/static/js/2.43515f6d.chunk.js.LICENSE.txt",
+    "static/media/about.1426a8f8.png": "/reactwebsites/static/media/about.1426a8f8.png",
+    "static/media/home.9804f712.png": "/reactwebsites/static/media/home.9804f712.png",
+    "static/media/im2.9a642fca.svg": "/reactwebsites/static/media/im2.9a642fca.svg",
+    "static/media/prt1.a7e6e1bc.jpg": "/reactwebsites/static/media/prt1.a7e6e1bc.jpg",
+    "static/media/prt3.f4332d3f.png": "/reactwebsites/static/media/prt3.f4332d3f.png",
+    "static/media/prt4.9d0b389e.jpg": "/reactwebsites/static/media/prt4.9d0b389e.jpg",
+    "static/media/prt6.44be90bd.png": "/reactwebsites/static/media/prt6.44be90bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0cf9d9.js",
+    "static/css/2.ebbcdcaa.chunk.css",
+    "static/js/2.43515f6d.chunk.js",
+    "static/css/main.4ad5fa50.chunk.css",
+    "static/js/main.6061ea76.chunk.js"
+  ]
+}
